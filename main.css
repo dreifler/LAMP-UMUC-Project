@@ -1,0 +1,91 @@
+html, body {
+  font-family: century gothic;
+}
+
+.container {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.header {
+    background-color: blue;
+    width: 100%;
+    position: fixed;
+    height: 100px;
+    padding-top: 0px;
+}
+
+.header h1 {
+	color: white;
+	text-align: left;
+	float:left;
+	font-family: lithograph;
+	text-shadow:3px 3px #828689;
+	font-style: italic;
+	margin-top: 5px;
+}
+
+.header h2 {
+	text-align: right;
+        padding-right: 10px;
+}
+
+.main {
+	position: 50% 50%;
+        width: 90%;
+        padding-top:125px;
+}
+
+.main img {
+        display: block;
+    	margin: auto;
+    	width: 200px;
+}
+
+.main h3 {
+	text-align:center;
+	font-size: 24px;
+	font-family: century gothic;
+	color: blue;
+}
+
+.main h4 {
+	text-align:center;
+	font-size: 24px;
+	font-family: century gothic;
+	color: blue;
+}
+
+.main p {
+	text-align:center;
+	font-size: 14px;
+	font-family: century gothic;
+	color: blue;
+        margin: 10px;
+}
+
+.jumbotron {
+	
+}
+
+.jumbotron .container {
+}
+
+.jumbotron a {
+	padding: 30px 30px 30px 30px;
+}
+
+.jumbotron .col-md-4 {
+	margin-top:30px;
+}
+
+.jumbotron img {
+ 	width: 100px;
+}
+
+.container {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0;
+}

@@ -1,0 +1,5 @@
+username=sdev_owner
+password=sdev300
+host=localhost
+db=axesrus
+
